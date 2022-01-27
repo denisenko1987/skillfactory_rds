@@ -1,2 +1,4 @@
-Цель проекта: построить модель классификации тексто (описание фильмов нужно сопоставить с жанром)
-Для этого будем использовать гугловкую сеть BERT
+# Text classification
+
+Building an NLP model that determines the genre of the film by its description
+
