@@ -1,2 +1,3 @@
-Цель проекта: построить модель классификации изображений на нейросетке.
-Для этого зафайнтюним обученную на датасете ImageNet сетку EfficientNet 
+# Image classification
+
+Building a neural network model to detcarermine car model due to image. Utilized NN is fine-tuned EfficientNet
