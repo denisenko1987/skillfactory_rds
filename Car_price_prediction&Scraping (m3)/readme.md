@@ -1,3 +1,5 @@
 # Car price prediction
 
-In this repo we have a scraper to take data form Auto.ru and model wich predict car prices.
+This project contains two parts:
+1. Scraping data from auto.ru
+2. Training model to predict car price 
